@@ -1,0 +1,1 @@
+//It will contain a few consts that you will export for your app to use.
